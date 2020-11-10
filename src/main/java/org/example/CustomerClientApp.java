@@ -3,6 +3,8 @@ package org.example;
 import java.util.ArrayList;
 import java.util.List;
 
+// tutorial: https://www.youtube.com/watch?v=CjV2uUozrNc&ab_channel=JavaGuides
+
 public class CustomerClientApp {
 
     public static void main(String[] args) {
